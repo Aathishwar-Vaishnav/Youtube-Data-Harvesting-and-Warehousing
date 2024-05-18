@@ -26,7 +26,7 @@ pip install streamlit
 
 Usage
 To use this project, follow these steps:
-1.	Clone the repository: git clone https://github.com/gopiashokan/Youtube-Harvesting-and-Warehousing.git
+1.	Clone the repository: git clone (https://github.com/Aathishwar-Vaishnav/Youtube-Data-Harvesting-and-Warehousing)
 2.	Install the required packages: pip install packages
 3.	Run the Streamlit app: streamlit run YDHWF.py
 4.	Access the app in your browser
